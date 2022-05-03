@@ -1,0 +1,3 @@
+git clone --> colar o caminho copiado do repositorio
+
+git status --> verificar o status do repositorio
