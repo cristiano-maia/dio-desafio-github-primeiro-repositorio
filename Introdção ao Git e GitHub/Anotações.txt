@@ -1,3 +1,14 @@
 git clone --> colar o caminho copiado do repositorio
 
 git status --> verificar o status do repositorio
+
+git add .   --> coloca o arquivo no controle de versão
+
+
+Enviar os arquivos
+
+git commit -m "Inclusão das anotações do curso de Git/GitHub"
+
+após
+
+git push origin main
